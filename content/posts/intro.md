@@ -7,5 +7,4 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ¡Hola!
 
 Para mi la cultura de una profesional de software se basa en lo siguiente:
-
 - No tengo el suficiente conocimiento en esta materia.
